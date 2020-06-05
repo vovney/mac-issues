@@ -5,7 +5,7 @@ https://support.apple.com/en-us/HT201834
 
 2. Работа сетевого стека из коробки при работе от батареи.
 
-Результаты ping -l 512 -n 1000
+Результаты ping uefa.com -l 512 -n 1000
 
 windows book (ac adapter ON)
 100/100
