@@ -1,9 +1,13 @@
-1. Есть ли техническая возможность на mac book работать с внешним монитором 
+4. del, home, end - wtf it's so strange.
+
+3. No real gibernation mode???
+
+2. Есть ли техническая возможность на mac book работать с внешним монитором 
 при закрытой крышке БЕЗ подключенного питания, т.е. от батареи?
 https://support.apple.com/en-us/HT201834
 Не работает. Возможности нет.
 
-2. Работа сетевого стека из коробки при работе от батареи.
+1. Работа сетевого стека из коробки при работе от батареи.
 
 Результаты ping uefa.com -l 512 -n 100
 
@@ -18,3 +22,5 @@ round-trip min/avg/max/stddev = 61.055/93.001/637.645/82.216 ms
 mac book (ac adapter OFF)
 100 packets transmitted, 94 packets received, 6.0% packet loss
 round-trip min/avg/max/stddev = 62.365/361.642/1857.298/335.953 ms
+
+
