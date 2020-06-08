@@ -1,3 +1,8 @@
+6. RAMdisk
+- notpersistent, for Chrome -> https://github.com/alanivey/ChromeOSXRamDisk
+
+5. How to get normal GUI access to the whole filesystem?
+
 4. del, home, end - wtf it's so strange.
 
 3. No real hibernation mode???
