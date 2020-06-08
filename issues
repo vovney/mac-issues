@@ -1,5 +1,13 @@
+7. Double click on the second screen to activate!!!
+
 6. RAMdisk
 - notpersistent, for Chrome -> https://github.com/alanivey/ChromeOSXRamDisk
+#корректно так
+
+/bin/rm -rvf "/users/boshirov/Library/Application Support/Google/Chrome/Default/Application Cache/Cache"
+/bin/mkdir -pv /Volumes/RamDiskCache/Google2
+/bin/ln -v -s /Volumes/RamDiskCache/Google2 "/users/boshirov/Library/Application Support/Google/Chrome/Default/Application Cache/Cache"
+
 
 5. How to get normal GUI access to the whole filesystem?
 
